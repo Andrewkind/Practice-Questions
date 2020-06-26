@@ -1,0 +1,13 @@
+C:\Users\Flyingfox\Projects\Practice-Questions\bin\Debug\netcoreapp3.1\Practice-Questions.exe
+C:\Users\Flyingfox\Projects\Practice-Questions\bin\Debug\netcoreapp3.1\Practice-Questions.deps.json
+C:\Users\Flyingfox\Projects\Practice-Questions\bin\Debug\netcoreapp3.1\Practice-Questions.runtimeconfig.json
+C:\Users\Flyingfox\Projects\Practice-Questions\bin\Debug\netcoreapp3.1\Practice-Questions.runtimeconfig.dev.json
+C:\Users\Flyingfox\Projects\Practice-Questions\bin\Debug\netcoreapp3.1\Practice-Questions.dll
+C:\Users\Flyingfox\Projects\Practice-Questions\bin\Debug\netcoreapp3.1\Practice-Questions.pdb
+C:\Users\Flyingfox\Projects\Practice-Questions\obj\Debug\netcoreapp3.1\Practice-Questions.csprojAssemblyReference.cache
+C:\Users\Flyingfox\Projects\Practice-Questions\obj\Debug\netcoreapp3.1\Practice-Questions.AssemblyInfoInputs.cache
+C:\Users\Flyingfox\Projects\Practice-Questions\obj\Debug\netcoreapp3.1\Practice-Questions.AssemblyInfo.cs
+C:\Users\Flyingfox\Projects\Practice-Questions\obj\Debug\netcoreapp3.1\Practice-Questions.csproj.CoreCompileInputs.cache
+C:\Users\Flyingfox\Projects\Practice-Questions\obj\Debug\netcoreapp3.1\Practice-Questions.dll
+C:\Users\Flyingfox\Projects\Practice-Questions\obj\Debug\netcoreapp3.1\Practice-Questions.pdb
+C:\Users\Flyingfox\Projects\Practice-Questions\obj\Debug\netcoreapp3.1\Practice-Questions.genruntimeconfig.cache
